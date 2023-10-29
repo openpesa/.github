@@ -1,8 +1,8 @@
 <a href="https://github.com/openpesa">
   <div align="center">
     <picture>
-      <source height="150px" media="(prefers-color-scheme: dark)" srcset="./assets/img/brand/logo/brand.png">
-      <img height="150px" alt="Openpesa" src="./assets/img/brand/logo/brand-alt.png">
+      <source height="150px" media="(prefers-color-scheme: dark)" srcset="../assets/img/brand/logo/brand.png">
+      <img height="150px" alt="Openpesa" src="../assets/img/brand/logo/brand-alt.png">
     </picture>
   </div>
 </a>
@@ -17,8 +17,8 @@ Openpesa provides a comprehensive set of tools and APIs for various payment meth
 
 <p align="center">
   <picture alt="Credits to Jackson Makinda">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/img/banner/supported.png">
-    <img alt="Openpesa Banner" src="./assets/img/banner/supported-alt.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/img/banner/supported.png">
+    <img alt="Openpesa Banner" src="../assets/img/banner/supported-alt.png">
   </picture>
 </p>
 
