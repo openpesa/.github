@@ -1,8 +1,8 @@
 <a href="https://github.com/openpesa">
   <div align="center">
     <picture>
-      <source height="150px" media="(prefers-color-scheme: dark)" srcset="../assets/img/brand/logo/brand.png">
-      <img height="150px" alt="Openpesa" src="../assets/img/brand/logo/brand-alt.png">
+      <source height="150px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openpesa/.github/main/assets/img/brand/logo/brand.png">
+      <img height="150px" alt="Openpesa" src="https://raw.githubusercontent.com/openpesa/.github/main/assets/img/brand/logo/brand-alt.png">
     </picture>
   </div>
 </a>
